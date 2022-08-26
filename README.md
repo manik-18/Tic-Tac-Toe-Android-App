@@ -8,19 +8,19 @@ It is a game for android that can be played by two persons.
 
 **STARTING**
 
- <img src="screenshots/IMG_20220826_122800.jpg" width="600" height="1100">
+ <img src="screenshots/IMG_20220826_122800.jpg" width="400" height="900">
  
  **When 0 won**
 
-<img src= "screenshots/IMG_20220826_122819.jpg" width="600" height="1100">
+<img src= "screenshots/IMG_20220826_122819.jpg" width="400" height="900">
 
 **When X won**
 
-<img src= "screenshots/IMG_20220826_122840.jpg" width="600" height="1100">
+<img src= "screenshots/IMG_20220826_122840.jpg" width="400" height="900">
 
 **When the game is draw**
 
-<img src= "screenshots/IMG_20220826_122903.jpg" width="600" height="1100">
+<img src= "screenshots/IMG_20220826_122903.jpg" width="400" height="900">
 
 
 ## SOFTWARE USED:
